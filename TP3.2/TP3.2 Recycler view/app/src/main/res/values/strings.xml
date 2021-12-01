@@ -1,0 +1,273 @@
+<resources>
+    <string name="app_name">TP03.2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="recipes">
+        <item> Classic rice pudding</item>
+        <item>Miso and butternut soup</item>
+        <item>Healthy roast dinner</item>
+        <item>Pesto egg muffin bites</item>
+        <item>Beetroot and feta pasta</item>
+        <item>Big barbecue chicken kebab</item>
+        <item>Easy naan bread</item>
+    </string-array>
+
+    <string-array name="short_description">
+        <item>Have this creamy rice pudding cooking in the oven while you make dinner and round off your meal with a comforting pud. Serve with jam for a feel-good treat</item>
+        <item>Make lunch more exciting with this silky and deeply savoury miso and butternut soup. Delivering all of your five-a-day, it’s also bursting with goodness</item>
+        <item>Cook a healthy, low-fat version of roast beef for two, made with lean, juicy steak and roasted veg, plus gravy on the side</item>
+        <item>Prepare these pesto egg and feta muffin bites for breakfast, an afternoon snack, or as part of a picnic hamper. Simple to make, kids will love them!</item>
+        <item>Bring colour to your dinner table with our creamy beetroot and feta pasta. Packed with nutrients, it’s a satisfying veggie lunch or supper for the family</item>
+        <item>Barbecuing for more than four people? Prepare a large chicken kebab to carve, then the cooking is done in one go – and you can enjoy the party. </item>
+        <item> Rustle up soft, fluffy naan bread topped with herby garlic butter. A perfect side dish for dunking into curries, it’s super easy to make.</item>
+    </string-array>
+    <string-array name="description">
+        <item>Have this creamy rice pudding cooking in the oven while you make dinner and round off your meal with a comforting pud. Serve with jam for a feel-good treat \n \n
+
+            Ingredients: \n\n
+
+            butter, for the dish \n
+
+            130g pudding rice \n
+
+            70g caster sugar \n
+
+            2 tsp vanilla bean paste or 1 vanilla pod, split and seeds scraped out \n
+
+            800ml whole milk \n
+
+            170ml double cream \n
+
+            grating of nutmeg \n
+
+            fruit jam of your choice, to serve (strawberry or apricot work well) \n\n
+
+            Method: \n\n
+
+            1- Heat the oven to 160C/140C fan/gas 3 and butter a 1.5-litre baking dish. Put the pudding rice, sugar, vanilla, milk and cream in a bowl and stir to combine. Pour the mixture into the prepared dish and grate over a generous layer of nutmeg. Bake for 1 hr 30 mins until a brown skin has formed on top and the rice is cooked and tender. \n
+
+            2- Leave to cool slightly, then scoop the warm pudding into bowls and serve with a dollop of jam on top. \n
+
+        </item>
+        <item>Make lunch more exciting with this silky and deeply savoury miso and butternut soup. Delivering all of your five-a-day, it’s also bursting with goodness \n\n
+
+            Ingredients: \n\n
+
+            2 tsp rapeseed oil \n
+
+            1 large onion, chopped \n
+
+            400g butternut squash, skin-on, cut into chunks \n
+
+            2 garlic cloves, chopped \n
+
+            210g can butter beans, drained \n
+
+            2 tsp vegetable bouillon \n
+
+            80g shredded kale, finely chopped \n
+
+            2 tsp sesame oil \n
+
+            2 tsp toasted sesame seeds \n
+
+            2 tsp finely grated ginger \n
+
+            1 tbsp brown rice miso \n\n
+
+            Method: \n\n
+
+            1- Heat the oil in a large pan and fry the onion for 5 mins to soften. Add the squash and garlic, and stir for a minute. Add the beans and bouillon along with a litre of water, then cover and simmer for 20 mins until the squash is tender. \n
+
+            2- Meanwhile, steam the kale for 10 mins, then toss together with the sesame oil, seeds and ginger. \n
+
+            3- Add the miso to the soup, then blitz until smooth using a hand blender. Pour into bowls and top with the sesame kale mix to serve. \n
+
+        </item>
+        <item>Cook a healthy, low-fat version of roast beef for two, made with lean, juicy steak and roasted veg, plus gravy on the side \n\n
+
+        	Ingredients: \n\n
+
+            285g medium potatoes, thickly sliced \n
+
+            4 small carrots (160g), halved lengthways \n
+
+            2 x 80g red onions, cut into quarters \n
+
+            170g large Brussels sprouts (about 8-10), trimmed \n
+
+            2½ tsp rapeseed oil \n
+
+            2 tsp thyme leaves \n
+
+            2 tsp balsamic vinegar \n
+
+            1 large garlic clove, finely grated \n
+
+            2 pinches of English mustard powder \n
+
+            170g thick, lean fillet steak \n
+
+            ½ tsp vegetable bouillon powder \n\n
+
+            Method: \n\n
+
+            1- Heat the oven to 180C/160C fan/gas 4. Bring a large pan of water to the boil and cook the potatoes for 5 mins. Drain, reserving the water. \n
+
+            2- Toss the potatoes, carrots, onions and sprouts with 2 tsp of the oil to coat. Arrange on a non-stick baking sheet, spaced apart. Scatter with 1 tsp of the thyme, grind over some black pepper, then roast for 30 mins. \n
+
+            3- Meanwhile, mix 1 tsp of the vinegar with the garlic, remaining thyme and oil, the mustard and plenty of black pepper. Rub this over the steak, put in a shallow dish and set aside. Mix the rest of the vinegar with the bouillon and 125ml of the reserved water from step 1, then set aside. After 30 mins, turn the veg over and roast for 15 mins more. \n
+
+            4- Meanwhile, heat a small non-stick frying pan over a medium-high heat. Lift the steak out of the marinade, shake off the excess and fry for 2-3 mins on each side until cooked to your liking. Remove to a board and leave to rest. Pour the leftover marinade into the frying pan and bubble until thickened slightly to make a gravy. Slice the steak and serve with the roast veg and gravy on the side. \n
+        </item>
+        <item>Prepare these pesto egg and feta muffin bites for breakfast, an afternoon snack, or as part of a picnic hamper. Simple to make, kids will love them! \n\n
+
+            Ingredients: \n\n
+
+            low-cal cooking spray, for the tin \n
+
+            18 cherry tomatoes, quartered \n
+
+            80g feta or goat’s cheese, crumbled \n
+
+            6 medium eggs \n
+
+            30ml milk \n
+
+            2 tbsp pesto (check the label if you’re vegetarian) \n\n
+
+            Method: \n\n
+
+            1- Heat the oven to 180C/160C fan/gas 4. Spray a 12-hole muffin tin with the oil spray. Evenly divide the tomatoes among the holes, and top each one with around 2 tsp of the feta or goat’s cheese. \n
+
+            2- Crack the eggs into a large bowl, then add the milk, pesto and seasoning and whisk to combine. Pour the mixture evenly into each hole. \n
+
+            3- Bake for 20 mins or until the egg is set. Cool for 2-3 mins in the tin, then remove and leave to cool on a wire rack. \n
+
+        </item>
+        <item>Bring colour to your dinner table with our creamy beetroot and feta pasta. Packed with nutrients, it’s a satisfying veggie lunch or supper for the family \n\n
+
+            Ingredients: \n\n
+
+            2 large beetroots, peeled and roughly chopped into chunks \n
+
+            1 tbsp olive oil \n
+
+            2 onions, finely chopped \n
+
+            4 celery sticks, finely chopped, celery tops kept separate \n
+
+            4 carrots, peeled and finely chopped \n
+
+            1 small bunch of basil \n
+
+            2 garlic cloves, finely chopped \n
+
+            400g wholemeal pasta \n
+
+            75g low-fat crème fraîche \n
+
+            100g feta \n\n
+
+            Method: \n\n
+
+            1- Put a large pan of salted water on a high heat, bring to the boil and add the beetroot chunks. Boil for 5 mins, then transfer the beetroot to a plate using a slotted spoon. Set the pan of cooking water aside. \n
+
+            2- Meanwhile, put the olive oil in a large frying pan set over a medium heat, then add the onions, celery and carrots, and cook for 8 mins until softened. Finely chop the basil stalks and celery tops, then add to the pan along with the garlic, and fry for another 30 seconds. \n
+
+            3- Tip the pasta into the pan of beetroot water and simmer for 13-15 mins (depending on what pasta you’re using) until just cooked but retaining a little bite. Drain, reserving 200ml of the pasta water and tip the pasta back into the pan. \n
+
+            4- Meanwhile, put the beetroot with half of the fried veg into the bowl of a food processor with most of the basil leaves and the crème fraîche, then blitz until smooth. Gradually add the reserved pasta water to loosen until you have a thick mixture. \n
+
+            5- Stir this sauce through the pasta along with the remaining fried veg and some seasoning. Divide between bowls, crumble over the feta, then scatter with the remaining basil leaves. Grind over some black pepper, if you like. \n
+        </item>
+
+
+        <item>Barbecuing for more than four people? Prepare a large chicken kebab to carve, then the cooking is done in one go – and you can enjoy the party. \n\n
+
+            Ingredients: \n\n
+
+            12 boneless, skinless chicken thighs \n
+
+            500g Greek yogurt \n
+
+            2 lemons, juiced, ½ lemon zested \n
+
+            100ml olive oil \n
+
+            4 garlic cloves, very finely grated or crushed \n
+
+            1 tbsp ground coriander \n
+
+            1 tbsp ground cumin \n
+
+            1 tbsp sweet paprika \n
+
+            1 tsp dried oregano \n
+
+            1 tsp dried thyme \n
+
+            1 tsp cayenne pepper \n
+
+            1 tsp crushed black pepper \n
+
+            ½ tsp ground cinnamon \n
+
+            2 red onions, halved and finely sliced \n
+
+            4 tomatoes (plum work well) halved and sliced \n\n
+
+            Method:\n \n
+
+            1- First, whisk all the marinade ingredients together with 1 tsp salt in a large bowl or, better still, a large plastic container that has a lid. Open out each chicken thigh, cover with a piece of baking parchment and flatten it with your hand, then lift off the paper and cut the thigh in half. Tip into the marinade and mix so it’s completely coated. Cover, chill and marinate for at least 1 hr or up to 24 hrs – the longer, the better. \n
+
+            2- Thread all the chicken onto two skewers so that both skewers go through each piece of meat, packing down tightly as you go to make a compact kebab (see tip, below). \n
+
+            3- Light a lidded barbecue, and let the flames die down. Once the coals have turned ashen, pile them up on one side with a single layer of coals scattered around the other side. Lay the chicken kebab on the side of the barbecue with only a few coals underneath. Put the lid down and cook for 45 mins, turning every 15 mins. To finish, lift the lid and roll the kebab over to the hotter side to char the meat, turning it every few minutes until well browned and cooked through. Prise the chicken pieces apart in the centre to check they’re cooked, or use a digital cooking thermometer – it should read 70C or more. Leave to rest for 5-10 mins while you cook the pittas (see recipe, opposite). Bring the kebab to the table and carve into thin slices with a serrated knife. Pile the carved meat into the warm pittas, then the sliced red onions and tomatoes, chips and tzatziki (see our recipes, below). \n
+        </item>
+
+
+        <item>Rustle up soft, fluffy naan bread topped with herby garlic butter. A perfect side dish for dunking into curries, it’s super easy to make \n\n
+
+            Ingredients: \n\n
+
+            570g plain flour, plus extra for dusting \n
+
+            1 tsp sugar \n
+
+            1½ tsp baking powder \n
+
+            ½-1 tsp strongly-flavoured seeds, such as nigella or cumin seeds (optional) \n
+
+            2 tbsp melted butter \n
+
+            8 tbsp natural yogurt \n
+
+            oil, for the bowl \n
+
+            2 garlic cloves, crushed \n
+
+            small handful of coriander, finely chopped, plus extra to serve \n\n
+
+            Method: \n\n
+
+            1- Put the flour in a large bowl, then add the sugar, baking powder and 1½ tsp salt. Add the seeds, if you like. Lightly whisk to disperse the ingredients evenly throughout the flour. \n
+
+            2- Add 1 tbsp of the melted butter, followed by the natural yogurt. Mix together with your hands. Once the yogurt and butter have been absorbed, gradually add 180-200ml water, 50ml at a time. Mix between additions, until it begins to come together into a dough. The water amount will depend on the consistency of the yogurt and butter – stop adding when you have a ball of dough. \n
+
+            3- Tip the dough onto a lightly floured work surface and knead thoroughly for 5 mins until smooth and elastic. Put in an oiled mixing bowl, cover with a tea towel and leave to rest for at least 1 hr. The dough will not rise but it is important to let it rest as this helps to make the naans less chewy and more fluffy. \n
+
+            4- If making the garlic butter, mix the garlic with the remaining 1 tbsp melted butter and the coriander. Set aside. \n
+
+            5- Divide the dough into eight, 10 or 12 even-sized pieces, depending on how big you want the naans. Roll into round balls, then return to the bowl, covered with a tea towel. \n
+
+            6- Roll one of the dough balls out on a lightly floured surface into a round, oval or teardrop shape – roll with a diagonal motion to get an oval. Flip the dough over and repeat on the other side. \n
+
+            7- Heat a frying pan. Dry fry the dough over a medium high heat until it begins to puff up and the underside browns in places. Flip and repeat on the other side. Remove the cooked naan from the pan. Spoon a little of the garlic butter over the naan, if using. Sprinkle over some coriander, if you like. Cover with a tea towel while you repeat the process with the remaining balls of dough. \n
+        </item>
+    </string-array>
+
+</resources>
